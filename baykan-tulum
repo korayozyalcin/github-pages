@@ -1,1 +1,54 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Baykan Tulum Atölyesi</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Baykan Tulum Atölyesi</h1>
+        <nav>
+            <ul>
+                <li><a href="#anasayfa">Anasayfa</a></li>
+                <li><a href="#hakkimizda">Hakkımızda</a></li>
+                <li><a href="#urunler">Ürünler</a></li>
+                <li><a href="#iletisim">İletişim</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="anasayfa">
+        <h2>Hoşgeldiniz</h2>
+        <p>Gelenekten geleceğe... Karadeniz'in sesi Baykan Tulum Atölyesi'nde hayat buluyor.</p>
+    </section>
+
+    <section id="hakkimizda">
+        <h2>Hakkımızda</h2>
+        <p>Baykan Tulum Atölyesi, Karadeniz’in kültürel mirasını yaşatmak için el yapımı tulum enstrümanları üretmektedir. Her biri özenle yapılan tulumlarımız, kalite ve geleneksel sesi bir araya getirir.</p>
+    </section>
+
+    <section id="urunler">
+        <h2>Ürünlerimiz</h2>
+        <ul>
+            <li>Standart Karadeniz Tulum</li>
+            <li>Profesyonel Tulum Modeli</li>
+            <li>Çocuklar için Mini Tulum</li>
+        </ul>
+        <p>Her ürün el yapımıdır ve isteğe göre kişiselleştirilebilir.</p>
+    </section>
+
+    <section id="iletisim">
+        <h2>İletişim</h2>
+        <p>Email: info@baykantulum.com</p>
+        <p>Telefon: 0 (555) 123 45 67</p>
+        <p>Adres: Rize, Türkiye</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Baykan Tulum Atölyesi</p>
+    </footer>
+</body>
+</html>
 
